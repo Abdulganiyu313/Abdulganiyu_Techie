@@ -1,7 +1,6 @@
-# Abdulganiyu_Techie
 <!--
 Hi there 👋
-Welcome to my GitHub profile! 
+Welcome to my GitHub profile!
 -->
 
 <h1 align="center">Hi, I'm Abdulganiyu Abdulrasak Sulaiman 👨‍💻</h1>
@@ -10,9 +9,17 @@ Welcome to my GitHub profile!
   <a href="https://www.linkedin.com/in/abdulganiyu-abdulrasak-sulaiman-6b8769224">LinkedIn</a> <br>
   Lagos, Nigeria | (+234) 8117788403
 </p>
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+
+<!-- Professional/classic badges centered with HTML -->
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
+
 ---
 
 ### 🧑‍💻 **Profile**
@@ -87,6 +94,7 @@ _Graduated January 2025 | GPA: 3.0/5.0_
 
 ---
 
+<!-- Onedark theme for GitHub stats cards -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdulganiyu313&show_icons=true&theme=onedark" alt="Abdulganiyu313's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulganiyu313&layout=compact&theme=onedark" alt="Top Langs" />
@@ -94,11 +102,6 @@ _Graduated January 2025 | GPA: 3.0/5.0_
 
 ---
 
-<!-- Optional: Fun fact or quote -->
 <blockquote>
   <em>"Code is like humor. When you have to explain it, it’s bad." – Cory House</em>
 </blockquote>
-
-<!--
-Let's connect! 🚀
--->
