@@ -10,7 +10,11 @@ Welcome to my GitHub profile!
   <a href="https://www.linkedin.com/in/abdulganiyu-abdulrasak-sulaiman-6b8769224">LinkedIn</a> <br>
   Lagos, Nigeria | (+234) 8117788403
 </p>
-
+<p align="center">
+  ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+</p>
 ---
 
 ### 🧑‍💻 **Profile**
@@ -86,8 +90,8 @@ _Graduated January 2025 | GPA: 3.0/5.0_
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdulganiyu313&show_icons=true&theme=radical" alt="Abdulganiyu313's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulganiyu313&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdulganiyu313&show_icons=true&theme=onedark" alt="Abdulganiyu313's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulganiyu313&layout=compact&theme=onedark" alt="Top Langs" />
 </p>
 
 ---
