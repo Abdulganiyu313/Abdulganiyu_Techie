@@ -10,11 +10,9 @@ Welcome to my GitHub profile!
   <a href="https://www.linkedin.com/in/abdulganiyu-abdulrasak-sulaiman-6b8769224">LinkedIn</a> <br>
   Lagos, Nigeria | (+234) 8117788403
 </p>
-<p align="center">
   ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
   ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-</p>
 ---
 
 ### 🧑‍💻 **Profile**
