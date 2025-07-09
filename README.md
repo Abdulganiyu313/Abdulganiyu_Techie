@@ -4,10 +4,10 @@ Hi there 👋
 Welcome to my GitHub profile! 
 -->
 
-<h1 align="center">Hi, I'm AbdulGaniyu Abdulrasak Sulaiman 👨‍💻</h1>
+<h1 align="center">Hi, I'm Abdulganiyu Abdulrasak Sulaiman 👨‍💻</h1>
 <p align="center">
   <a href="mailto:abdulganiyus03@gmail.com">abdulganiyus03@gmail.com</a> |
-  <a href="https://www.linkedin.com/in/your-linkedin">LinkedIn</a> <br>
+  <a href="https://www.linkedin.com/in/abdulganiyu-abdulrasak-sulaiman-6b8769224">LinkedIn</a> <br>
   Lagos, Nigeria | (+234) 8117788403
 </p>
 
